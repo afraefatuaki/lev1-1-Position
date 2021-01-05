@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+/* font-family: 'Poppins', sans-serif; */
+*{
+    margin: 0px;
+}
+section {
+    background: url('../img/Elche.jpeg') center/cover no-repeat;
+    height: 100vh;
+}
+div{
+    color: white;
+    position: relative;
+    top: 200px;
+    left: 75%;
+}
+h1,h2{
+    font-family: 'Poppins', sans-serif; 
+    font-size: 40px
+}
